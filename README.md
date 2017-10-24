@@ -2,6 +2,10 @@
 
 A simple Koa 2 boilerplate for API's using ES6.
 
+[![GitHub issues](https://img.shields.io/github/issues/dbalas/koalerplate.svg?style=flat-square)](https://github.com/dbalas/koalerplate/issues)
+[![GitHub stars](https://img.shields.io/github/stars/dbalas/koalerplate.svg?style=flat-square)](https://github.com/dbalas/koalerplate/stargazers)
+[![GitHub license](https://img.shields.io/github/license/dbalas/koalerplate.svg?style=flat-square)](https://github.com/dbalas/koalerplate/blob/master/LICENSE.md)
+
 ## What's in the package?
 
 * Routing with koa-router.
