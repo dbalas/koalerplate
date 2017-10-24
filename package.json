@@ -1,5 +1,5 @@
 {
-  "name": "Koalerplate",
+  "name": "koalerplate",
   "homepage": "https://github.com/dbalas/koalerplate.git",
   "description": "A simple Koa 2 boilerplate for API's using ES6.",
   "bugs": {
