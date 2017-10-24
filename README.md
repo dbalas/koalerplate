@@ -1,4 +1,4 @@
-# Project Title
+# Koalerplate
 
 A simple Koa 2 boilerplate for API's using ES6.
 
