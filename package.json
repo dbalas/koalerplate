@@ -5,7 +5,14 @@
   "bugs": {
     "url": "https://github.com/dbalas/koalerplate/issues/new"
   },
-  "keywords": ["koa", "koa2", "boilerplate", "koalerplate", "api", "es6"],
+  "keywords": [
+    "koa",
+    "koa2",
+    "boilerplate",
+    "koalerplate",
+    "api",
+    "es6"
+  ],
   "repository": "git@github.com:dbalas/koalerplate.git",
   "author": "Daniel Balastegui",
   "license": "MIT",
