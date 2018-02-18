@@ -6,6 +6,7 @@
 - Koa-router updated to 7.4.0
 - dotenv updated to 5.0.0
 - adding history.md :D
+- cross-env added for package.json start script
 
 ## 1.0.1
 
