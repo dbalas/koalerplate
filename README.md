@@ -30,11 +30,6 @@ By default the API server starts on port 3000, http://localhost:3000.
 ### Prerequisites
 
 * node >= v7.6.0
-* *npm run dev* use nodemon
-
-```
-npm install -g nodemon
-```
 
 ## Contributing
 

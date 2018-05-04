@@ -32,5 +32,8 @@
     "koa-logger": "^3.2.0",
     "koa-respond": "^1.0.1",
     "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
   }
 }
