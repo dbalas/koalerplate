@@ -1,5 +1,10 @@
 # History
 
+## 1.2.0
+
+- koa-helmet updated to 4.0
+- Minor dependencies update
+
 ## 1.1.0
 
 - Koa updated to 2.5.0
