@@ -6,6 +6,8 @@ A simple Koa 2 boilerplate for API's using ES6.
 [![GitHub stars](https://img.shields.io/github/stars/dbalas/koalerplate.svg?style=flat-square)](https://github.com/dbalas/koalerplate/stargazers)
 [![GitHub license](https://img.shields.io/github/license/dbalas/koalerplate.svg?style=flat-square)](https://github.com/dbalas/koalerplate/blob/master/LICENSE.md)
 
+<a href="https://communityinviter.com/apps/koa-js/koajs" rel="KoaJs Slack Community">![KoaJs Slack](https://img.shields.io/badge/Koa.Js-Slack%20Channel-Slack.svg?longCache=true&style=for-the-badge)</a>
+
 ## What's in the package?
 
 * Routing with koa-router.
