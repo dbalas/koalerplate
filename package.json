@@ -23,10 +23,10 @@
     "start": "cross-env NODE_ENVIRONMENT=production node index"
   },
   "dependencies": {
-    "@koa/cors": "^2.2.1",
+    "@koa/cors": "^2.2.2",
     "cross-env": "^5.2.0",
     "dotenv": "^6.0.0",
-    "koa": "^2.5.1",
+    "koa": "^2.5.2",
     "koa-bodyparser": "^4.2.1",
     "koa-helmet": "^4.0.0",
     "koa-logger": "^3.2.0",
@@ -34,6 +34,6 @@
     "koa-router": "^7.4.0"
   },
   "devDependencies": {
-    "nodemon": "^1.17.5"
+    "nodemon": "^1.18.4"
   }
 }
