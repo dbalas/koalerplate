@@ -2,6 +2,10 @@
 
 ## 1.2.1
 
+- Minor dependencies update
+
+## 1.2.1
+
 - dotenv updated to 6.0.0 (dropped support for Node 4)
 - Minor dependencies update
 
