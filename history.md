@@ -1,6 +1,11 @@
 # History
 
-## 1.2.1
+## 1.3.0
+
+- Updating minor dependencies versions
+- Adding support for yarn
+
+## 1.2.2
 
 - Minor dependencies update
 
