@@ -25,7 +25,7 @@
   "dependencies": {
     "@koa/cors": "^3.0.0",
     "cross-env": "^5.2.0",
-    "dotenv": "^7.0.0",
+    "dotenv": "^8.0.0",
     "koa": "^2.6.2",
     "koa-bodyparser": "^4.2.1",
     "koa-helmet": "^4.0.0",
