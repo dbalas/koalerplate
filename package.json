@@ -34,6 +34,6 @@
     "koa-router": "^7.4.0"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9"
+    "nodemon": "^2.0.4"
   }
 }
