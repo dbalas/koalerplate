@@ -1,5 +1,13 @@
 # History
 
+## 1.5.0
+
+- Updating minor dependencies versions
+
+## 1.4.0
+
+- Updating minor dependencies versions
+
 ## 1.3.0
 
 - Updating minor dependencies versions
