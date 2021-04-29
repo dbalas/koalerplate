@@ -1,0 +1,47 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: monthly
+    time: "04:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: nodemon
+    versions:
+    - 2.0.6
+    - 2.0.7
+  - dependency-name: koa
+    versions:
+    - 2.13.0
+    - 2.13.1
+  - dependency-name: cross-env
+    versions:
+    - 7.0.3
+  - dependency-name: ini
+    versions:
+    - 1.3.8
+  - dependency-name: koa-router
+    versions:
+    - 10.0.0
+  - dependency-name: koa-helmet
+    versions:
+    - 6.0.0
+  - dependency-name: dot-prop
+    versions:
+    - 4.2.1
+  - dependency-name: "@koa/cors"
+    versions:
+    - 3.1.0
+  - dependency-name: koa-bodyparser
+    versions:
+    - 4.3.0
+  - dependency-name: dotenv
+    versions:
+    - 8.2.0
+  - dependency-name: mixin-deep
+    versions:
+    - 1.3.2
+  - dependency-name: koa-logger
+    versions:
+    - 3.2.1
